@@ -18,7 +18,7 @@ A Frontend Engineer by day, and a code conjurer by night! ✨
 
 I'm passionate about building web applications that not only look good but also provide seamless user experiences. I've had the pleasure of leading teams, optimizing performance, and contributing to projects that make a real-world impact.
 
-Check out my personal website <a href="[placeholder.com](https://femibalogun.dev)" target="_blank">here</a> for more info.
+Check out my personal website [here](https://femibalogun.dev) for more info.
 
 ## 🛠️ Tech Toolbox
 
