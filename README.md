@@ -55,3 +55,9 @@ I'm always open to collaborating on exciting projects or discussing the latest i
 📧 [Email](mailto:phembarl@yahoo.com)
 
 🌐 [Portfolio](https://femibalogun.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phembarl/phembarl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phembarl/phembarl/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phembarl/phembarl/output/github-snake.svg" />
+</picture>
