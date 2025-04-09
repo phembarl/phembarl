@@ -63,7 +63,7 @@ I wield a variety of software technologies, including:
 
 Here are a few projects I'm particularly proud of:
 
-### [Maxone](https://www.max.ng/)
+### [Max](https://www.maxdrive.ai/)
 
 - Led the development of a high-performance computer-based testing platform using Next.js, designed to assess driving and vision skills for vehicle applicants.
 - Delivered a robust battery inventory management system for electric vehicles, reducing swap cycle errors and minimizing downtime.
